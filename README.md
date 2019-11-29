@@ -1,6 +1,5 @@
-# portfolio_app
+# Business Card App Built Using Flutter - Cross Platform
 
-A new Flutter project.
 
 ## Getting Started
 
